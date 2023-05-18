@@ -19,7 +19,7 @@ This application allows you to compare the prices and other information of produ
 1. Clone the repository
 2. Install the requirements with `pip install -r requirements.txt`
 3. In the global_variables.py file, enter your credentials for the SP-API and the Postgres Database
-4. On database_functions -> comments.py, run the commented lines to create tables in your database.
+4. On 'database_functions/comments.py' root, run the commented lines to create tables in your database.
 5. Run the main.py file by typing `python main.py` in the terminal
 
 ## Notes
