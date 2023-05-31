@@ -27,6 +27,9 @@ This application allows you to compare the prices and other information of produ
 - You may want to move your credentials to a '.env' file for security reasons.
 - You can find an example 'Import File' in the main directory.
 
+## Possible Improvements
+- Database queries and structure should be optimized for better performance. There are missing indexing problems and performance drops on the current version.
+
 ## Screenshots
 <img width="514" alt="Screenshot 2023-02-04 at 02 18 29" src="https://user-images.githubusercontent.com/53555551/216728730-62a474d8-20a8-4be8-81a5-2e4b9820479c.png">
 <img width="1157" alt="Screenshot 2023-02-04 at 02 08 37" src="https://user-images.githubusercontent.com/53555551/216728651-13a964a9-1768-4158-9802-de07f08913f2.png">
